@@ -50,7 +50,7 @@
                 </li>
               </ul>
 
-              <a href="anuncio.html" class="boton boton-amarillo-block">
+              <a href="anuncio.php" class="boton boton-amarillo-block">
                 Ver Propiedad
               </a>
             </div>
@@ -100,7 +100,7 @@
                 </li>
               </ul>
 
-              <a href="anuncio.html" class="boton boton-amarillo-block">
+              <a href="anuncio.php" class="boton boton-amarillo-block">
                 Ver Propiedad
               </a>
             </div>
@@ -150,7 +150,7 @@
                 </li>
               </ul>
 
-              <a href="anuncio.html" class="boton boton-amarillo-block">
+              <a href="anuncio.php" class="boton boton-amarillo-block">
                 Ver Propiedad
               </a>
             </div>
@@ -200,7 +200,7 @@
                 </li>
               </ul>
 
-              <a href="anuncio.html" class="boton boton-amarillo-block">
+              <a href="anuncio.php" class="boton boton-amarillo-block">
                 Ver Propiedad
               </a>
             </div>
@@ -250,7 +250,7 @@
                 </li>
               </ul>
 
-              <a href="anuncio.html" class="boton boton-amarillo-block">
+              <a href="anuncio.php" class="boton boton-amarillo-block">
                 Ver Propiedad
               </a>
             </div>
@@ -300,7 +300,7 @@
                 </li>
               </ul>
 
-              <a href="anuncio.html" class="boton boton-amarillo-block">
+              <a href="anuncio.php" class="boton boton-amarillo-block">
                 Ver Propiedad
               </a>
             </div>
@@ -311,5 +311,5 @@
       </section>
     </main>
 <?php
-  include 'includes/templates/footer.php'; 
+  incluirTemplate('footer');
 ?>
